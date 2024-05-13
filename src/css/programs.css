@@ -1,0 +1,56 @@
+.program
+{
+  margin: 60px 40px 100px 80px;
+}
+
+.heading-program
+{
+  font-size:32px ;
+}
+
+.heading-program,.title
+{
+  color: #006394;
+}
+
+.courses
+{
+  width: 1500px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.all-courses
+{
+  box-shadow:0px 0px 5px 0px  #4679b4;
+  border-radius: 5px;
+  width: 400px;
+  max-width: 100%;
+  font-weight: bold;
+  font-size: 20px;
+  margin :20px 20px 40px 20px;
+  padding: 30px 20px 0px 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.course-name
+{
+  text-align: center;
+}
+
+.months 
+{ 
+  gap:40px;
+  color: #808080;
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+} 
+
+hr
+{
+ border:3px dashed #ffb10b;
+}
+

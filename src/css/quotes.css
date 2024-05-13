@@ -1,0 +1,27 @@
+.quotes
+{
+    padding:60px 80px 10px 80px ;
+    background-color:#f0f8ff;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.lines span
+{
+   font-size: 40px;
+   font-weight: bolder;
+}
+
+.lines p
+{
+    color:blue;
+    font-size: 21px;
+    text-align: center;
+}
+
+.image-class .image
+{
+    width: 400px;
+    height: 300px;
+}
